@@ -5,7 +5,7 @@
  redirect_from: 
    - /about/
    - /about.html
- ---
+---
 
 <br />
 Welcome! I am a PhD candidate in Economics at Harvard University.
