@@ -9,7 +9,7 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models**, *(Job Market Paper)* <br />
+**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> ] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -20,8 +20,8 @@ these challenges by proposing a new Bayesian bootstrap procedure tailored to thi
 frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010) illustrates the practical advantages of the approach.
 </small><br><br/></div>
 
-**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**,  <br />
-<small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Arxiv version][Arxiv_ME] ] 
+**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**  <br />
+<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Arxiv version][Arxiv_ME] ] 
 
 <div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as
