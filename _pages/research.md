@@ -31,6 +31,15 @@ method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Ark
 
 [Arxiv_ME]: https://arxiv.org/abs/2311.14032
 
+**Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity** (joint with Isaiah Andrews and Raj Chetty) <br />
+<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> ] 
+
+<div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We characterize when and how experimental evidence should be combined with observational information to guide treatment adoption at a new site. We show that the optimal linear predictor for the site-specific treatment effect is a weighted average of the cross-site experimental ATE and the local observational estimate, with weights determined by the covariance matrix of site effects and observational estimands.  We provide unbiased estimators for this covariance in settings with both large and small sites, quantify the effect of mismatch between experimental and target sites, and derive easy-to-interpret breakdown points. Empirical illustrations using the Year Up RCT and Project STAR show substantial gains, with up to 40 percent reductions in out-of-sample MSE over naive ATE extrapolation.
+</small><br><br/></div>
+
+
+
 [//]: This java script is the button to show abstract
  <script>
   function visib(id) {
