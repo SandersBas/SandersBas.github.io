@@ -31,7 +31,7 @@ method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Ark
 
 [Arxiv_ME]: https://arxiv.org/abs/2311.14032
 
-**Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity** (joint with Isaiah Andrews and Raj Chetty) <br />
+**Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity**, joint with Isaiah Andrews and Raj Chetty <br />
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> ] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
