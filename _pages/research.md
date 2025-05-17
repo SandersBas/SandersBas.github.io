@@ -10,7 +10,7 @@ classes: wide
 - - -
 
 **A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
-<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> ] 
+<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft](files/NBBQTSM_2025_05_17.pdf)] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions often inform policy decisions, it is important to communicate the uncertainty
