@@ -21,7 +21,7 @@ frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Par
 </small><br><br/></div>
 
 **Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *R&R at Review of Economics and Statistics*  <br />
-<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Arxiv version][Arxiv_ME] ] 
+<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft](files/Manuscript_CSQTSM.pdf) | [Arxiv version][Arxiv_ME] ] 
 
 <div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as
