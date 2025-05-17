@@ -23,7 +23,7 @@ frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Par
 [Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_05_17.pdf %}
 
 **Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *R&R at Review of Economics and Statistics*  <br />
-<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [Arxiv version][Arxiv_ME] ] 
+<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] ] 
 
 <div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as
@@ -33,7 +33,7 @@ method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Ark
 
 [Draft_ME]:{{ site.baseurl }}{% link files/Manuscript_CSQTSM.pdf %}
 
-[Arxiv_ME]: https://arxiv.org/abs/2311.14032
+[arXiv_ME]: https://arxiv.org/abs/2311.14032
 
 **Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity**, joint with Isaiah Andrews and Raj Chetty <br />
 <small>[ <a href="#/" onclick="visib('TEH')">Abstract</a> ] 
