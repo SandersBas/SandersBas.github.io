@@ -20,7 +20,7 @@ these challenges by proposing a new Bayesian bootstrap procedure tailored to thi
 frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010) illustrates the practical advantages of the approach.
 </small><br><br/></div>
 
-[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_05_17.pdf %}
+[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_05_18.pdf %}
 
 **Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *R&R at Review of Economics and Statistics*  <br />
 <small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] ] 
