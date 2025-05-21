@@ -10,7 +10,7 @@ classes: wide
 - - -
 
 **A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
-<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] ] 
+<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB]] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions often inform policy decisions, it is important to communicate the uncertainty
@@ -21,6 +21,8 @@ frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Par
 </small><br><br/></div>
 
 [Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_05_18.pdf %}
+
+[arXiv_BB]: https://arxiv.org/abs/2505.11967
 
 **Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *R&R at Review of Economics and Statistics*  <br />
 <small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] ] 
