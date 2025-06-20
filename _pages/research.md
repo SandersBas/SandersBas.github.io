@@ -33,7 +33,7 @@ perfectly observed, but there is good reason to believe that it is measured with
 world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed
 method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.</small><br><br/></div>
 
-[Draft_ME]:{{ site.baseurl }}{% link files/Manuscript_CSQTSM.pdf %}
+[Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2025_06_20.pdf %}
 
 [arXiv_ME]: https://arxiv.org/abs/2311.14032
 
