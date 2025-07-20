@@ -20,7 +20,7 @@ these challenges by proposing a new Bayesian bootstrap procedure tailored to thi
 frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010) illustrates the practical advantages of the approach.
 </small><br><br/></div>
 
-[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_05_18.pdf %}
+[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_07_20.pdf %}
 
 [arXiv_BB]: https://arxiv.org/abs/2505.11967
 
