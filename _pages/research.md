@@ -13,11 +13,7 @@ classes: wide
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions often inform policy decisions, it is important to communicate the uncertainty
-surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual
-predictions depend on the data in two distinct ways—through the estimation of structural parameters and through their role as inputs into the model’s counterfactual equilibrium. I address
-these challenges by proposing a new Bayesian bootstrap procedure tailored to this context. The method is simple to implement and provides both finite-sample Bayesian and asymptotic
-frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010) illustrates the practical advantages of the approach.
+Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions aim to inform policy decisions, it is important to communicate the uncertainty surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual predictions depend on the data in two distinct ways—through the estimation of structural parameters and through the description as the status quo. I propose a new Bayesian bootstrap procedure that is tailored to this setting and that addresses all these challenges. The procedure is simple to implement and provides both finite-sample Bayesian and asymptotic frequentist guarantees. I illustrate the practical advantages of this approach by revisiting the applications in Waugh (2010), Caliendo and Parro (2015), and Artuç et al. (2010).
 </small><br><br/></div>
 
 [Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_07_28.pdf %}
@@ -30,10 +26,8 @@ frequentist guarantees. Revisiting the results in Waugh (2010), Caliendo and Par
 <small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] | [Toolkit][Toolkit_ME] ] 
 
 <div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as
-perfectly observed, but there is good reason to believe that it is measured with error. This paper provides tools for quantifying uncertainty about counterfactuals when the current state of the
-world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed
-method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.</small><br><br/></div>
+Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as perfectly observed, but there is good reason to believe that it is measured with error. This paper provides tools for quantifying uncertainty about counterfactuals when the current state of the world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.
+</small><br><br/></div>
 
 [Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2025_06_20.pdf %}
 
