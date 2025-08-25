@@ -13,10 +13,10 @@ classes: wide
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions aim to inform policy decisions, it is important to communicate the uncertainty surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual predictions depend on the data in two distinct ways—through the estimation of structural parameters and through the description as the status quo. I propose a new Bayesian bootstrap procedure that is tailored to this setting and that addresses all these challenges. The procedure is simple to implement and provides both finite-sample Bayesian and asymptotic frequentist guarantees. I illustrate the practical advantages of this approach by revisiting the applications in Waugh (2010), Caliendo and Parro (2015), and Artuç et al. (2010).
+Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions aim to inform policy decisions, it is important to communicate the uncertainty surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual predictions depend on the data in two distinct ways—through the estimation of structural parameters and through the description of the status quo. I propose a new Bayesian bootstrap procedure that is tailored to this setting and that addresses these challenges. The procedure is simple to implement and provides both finite-sample Bayesian and asymptotic frequentist guarantees. I illustrate the practical advantages of this approach by revisiting the applications in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010).
 </small><br><br/></div>
 
-[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_07_28.pdf %}
+[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_08_25.pdf %}
 
 [arXiv_BB]: https://arxiv.org/abs/2505.11967
 
