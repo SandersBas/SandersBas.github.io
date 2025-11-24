@@ -29,7 +29,7 @@ Economists use quantitative trade and spatial models to make counterfactual pred
 Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as perfectly observed, but there is good reason to believe that it is measured with error. This paper provides tools for quantifying uncertainty about counterfactuals when the current state of the world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.
 </small><br><br/></div>
 
-[Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2025_06_20.pdf %}
+[Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2025_11_24.pdf %}
 
 [arXiv_ME]: https://arxiv.org/abs/2311.14032
 
