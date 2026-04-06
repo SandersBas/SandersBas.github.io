@@ -8,8 +8,8 @@
 ---
 
 <br />
-Welcome! I am a PhD candidate in Economics at Harvard University.
+Welcome! I am an economic researcher at SEO Amsterdam Economics. Before that, I earned my PhD in Economics from Harvard University.
 
-My research interests are in econometrics with applications in quantitative trade and spatial models. Here is my [CV](files/CV.pdf).
+My research interests are in econometrics with applications in quantitative trade and spatial models.
 
 Contact: bas_sanders@g.harvard.edu
