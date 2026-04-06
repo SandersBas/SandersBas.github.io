@@ -22,7 +22,7 @@ Economists use quantitative trade and spatial models to make counterfactual pred
 
 [Toolkit_BB]: https://github.com/SandersBas/NBBQTSM
 
-**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *R&R at Review of Economics and Statistics*  <br />
+**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *Forthcoming at Review of Economics and Statistics*  <br />
 <small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] | [Toolkit][Toolkit_ME] ] 
 
 <div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
