@@ -25,7 +25,7 @@ Counterfactuals in quantitative trade and spatial models are functions of the cu
 - - -
 
 **The Incredible Flexibility of Moment Matching**, joint with Isaiah Andrews <br />
-<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_MM]] 
+<small>[ <a href="#/" onclick="visib('MM')">Abstract</a> | [Draft][Draft_MM]] 
 
 <div id="MM" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We ask how far the choice of which moments to match can push estimates in a misspecified structural model. The answer is: very far. Under mild conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menucost model, and discuss restricting, motivating, or pre-committing to the choice of moments as routes to reduce researcher degrees of freedom.
