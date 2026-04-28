@@ -5,22 +5,7 @@ permalink: /research/
 classes: wide
 ---
 
-
-# <center> Working Papers  </center>
-- - -
-
-**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
-<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
-
-<div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions aim to inform policy decisions, it is important to communicate the uncertainty surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual predictions depend on the data in two distinct ways—through the estimation of structural parameters and through the description of the status quo. I propose a new Bayesian bootstrap procedure that is tailored to this setting and that addresses these challenges. The procedure is simple to implement and provides both finite-sample Bayesian and asymptotic frequentist guarantees. I illustrate the practical advantages of this approach by revisiting the applications in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010).
-</small><br><br/></div>
-
-[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_11_21.pdf %}
-
-[arXiv_BB]: https://arxiv.org/abs/2505.11967
-
-[Toolkit_BB]: https://github.com/SandersBas/NBBQTSM
+# <center> Published Papers  </center>
 
 **Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *Forthcoming at Review of Economics and Statistics*  <br />
 <small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] | [Toolkit][Toolkit_ME] ] 
@@ -34,6 +19,31 @@ Counterfactuals in quantitative trade and spatial models are functions of the cu
 [arXiv_ME]: https://arxiv.org/abs/2311.14032
 
 [Toolkit_ME]: https://github.com/SandersBas/MECQTSM
+
+# <center> Working Papers  </center>
+- - -
+
+**The Incredible Flexibility of Moment Matching**, joint with Isaiah Andrews <br />
+<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_MM]] 
+
+<div id="MM" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We ask how far the choice of which moments to match can push estimates in a misspecified structural model. The answer is: very far. Under mild conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menucost model, and discuss restricting, motivating, or pre-committing to the choice of moments as routes to reduce researcher degrees of freedom.
+</small><br><br/></div>
+
+[Draft_MM]:{{ site.baseurl }}{% link files/IFMM_2026_04_28.pdf %}
+
+**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
+<small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
+
+<div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Economists use quantitative trade and spatial models to make counterfactual predictions. Because such predictions aim to inform policy decisions, it is important to communicate the uncertainty surrounding them. Three key challenges arise in this setting: the data are dyadic and exhibit complex dependence; the number of interacting units is typically small; and counterfactual predictions depend on the data in two distinct ways—through the estimation of structural parameters and through the description of the status quo. I propose a new Bayesian bootstrap procedure that is tailored to this setting and that addresses these challenges. The procedure is simple to implement and provides both finite-sample Bayesian and asymptotic frequentist guarantees. I illustrate the practical advantages of this approach by revisiting the applications in Waugh (2010), Caliendo and Parro (2015), and Artuç, Chaudhuri, and McLaren (2010).
+</small><br><br/></div>
+
+[Draft_BB]:{{ site.baseurl }}{% link files/NBBQTSM_2025_11_21.pdf %}
+
+[arXiv_BB]: https://arxiv.org/abs/2505.11967
+
+[Toolkit_BB]: https://github.com/SandersBas/NBBQTSM
 
 **Weighing Experimental vs. Observational Evidence: Decision-Relevant Summaries of Treatment Effect Heterogeneity**, joint with Isaiah Andrews and Raj Chetty <br />
 <small>[ <a href="#/" onclick="visib('TEH')">Abstract</a> ] 
