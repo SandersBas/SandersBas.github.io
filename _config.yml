@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Bas Sanders"
   bio              : "Economic Researcher"
-  employer         : '<a href="https://www.seo.nl/en/" target="_blank">SEO Amsterdam Economics</a>'
+  employer: "SEO Amsterdam Economics"
+  employer_url: "https://www.seo.nl/en/"
   
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=DAHizsoAAAAJ&hl=en"
