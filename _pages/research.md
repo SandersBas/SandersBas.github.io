@@ -5,27 +5,11 @@ permalink: /research/
 classes: wide
 ---
 
-# <center> Published Papers  </center>
-- - -
-
-**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *Forthcoming at Review of Economics and Statistics*  <br />
-<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] | [Toolkit][Toolkit_ME] ] 
-
-<div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as perfectly observed, but there is good reason to believe that it is measured with error. This paper provides tools for quantifying uncertainty about counterfactuals when the current state of the world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.
-</small><br><br/></div>
-
-[Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2026_03_04.pdf %}
-
-[arXiv_ME]: https://arxiv.org/abs/2311.14032
-
-[Toolkit_ME]: https://github.com/SandersBas/MECQTSM
-
 # <center> Working Papers  </center>
 - - -
 
 **The Incredible Flexibility of Moment Matching**, joint with Isaiah Andrews <br />
-<small>[ <a href="#/" onclick="visib('MM')">Abstract</a> | [Draft][Draft_MM]] 
+<small>[ <a href="#/" onclick="visib('MM')">Abstract</a> | [Draft][Draft_MM] ] 
 
 <div id="MM" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We ask how far the choice of which moments to match can push estimates in a misspecified structural model. The answer is: very far. Under mild conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menucost model, and discuss restricting, motivating, or pre-committing to the choice of moments as routes to reduce researcher degrees of freedom.
@@ -53,7 +37,21 @@ Economists use quantitative trade and spatial models to make counterfactual pred
 We characterize when and how experimental evidence should be combined with observational information to guide treatment adoption at a new site. We show that the optimal linear predictor for the site-specific treatment effect is a weighted average of the cross-site experimental ATE and the local observational estimate, with weights determined by the covariance matrix of site effects and observational estimands.  We provide unbiased estimators for this covariance in settings with both large and small sites, quantify the effect of mismatch between experimental and target sites, and derive easy-to-interpret breakdown points. Empirical illustrations using the Year Up RCT and Project STAR show substantial gains, with up to 40 percent reductions in out-of-sample MSE over naive ATE extrapolation.
 </small><br><br/></div>
 
+# <center> Published Papers  </center>
+- - -
 
+**Measurement Error and Counterfactuals in Quantitative Trade and Spatial Models**, *Forthcoming at Review of Economics and Statistics*  <br />
+<small>[ <a href="#/" onclick="visib('ME')">Abstract</a> | [Draft][Draft_ME] | [arXiv version][arXiv_ME] | [Toolkit][Toolkit_ME] ] 
+
+<div id="ME" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Counterfactuals in quantitative trade and spatial models are functions of the current state of the world and the model parameters. Common practice treats the current state of the world as perfectly observed, but there is good reason to believe that it is measured with error. This paper provides tools for quantifying uncertainty about counterfactuals when the current state of the world is measured with error. I recommend an empirical Bayes approach to uncertainty quantification, and show that it is both practical and theoretically justified. I apply the proposed method to the settings in Adao, Costinot, and Donaldson (2017) and Allen and Arkolakis (2022) and find non-trivial uncertainty about counterfactuals.
+</small><br><br/></div>
+
+[Draft_ME]:{{ site.baseurl }}{% link files/MECQTSM_2026_03_04.pdf %}
+
+[arXiv_ME]: https://arxiv.org/abs/2311.14032
+
+[Toolkit_ME]: https://github.com/SandersBas/MECQTSM
 
 [//]: This java script is the button to show abstract
  <script>
