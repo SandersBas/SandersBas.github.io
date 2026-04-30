@@ -17,7 +17,7 @@ We ask how far the choice of which moments to match can push estimates in a miss
 
 [Draft_MM]:{{ site.baseurl }}{% link files/IFMM_2026_04_28.pdf %}
 
-**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** *(Job Market Paper)* <br />
+**A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** <br />
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
 
 <div id="BB" style="display: none; text-align: justify; line-height: 1.2" ><small>
