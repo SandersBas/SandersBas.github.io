@@ -15,7 +15,7 @@ classes: wide
 We ask how far the choice of which moments to match can push estimates in a misspecified structural model. The answer is: very far. Under mild conditions, an adversarial researcher informed about the data distribution can choose moments that render any parameter value the unique solution to the population moment-matching problem. Moreover, in many cases they can do so with little increase in model-implied standard errors relative to maximum likelihood. We illustrate both results in a menucost model, and discuss restricting, motivating, or pre-committing to the choice of moments as routes to reduce researcher degrees of freedom.
 </small><br><br/></div>
 
-[Draft_MM]:{{ site.baseurl }}{% link files/IFMM_2026_04_28.pdf %}
+[Draft_MM]:{{ site.baseurl }}{% link files/IFMM_2026_06_19.pdf %}
 
 **A New Bayesian Bootstrap for Quantitative Trade and Spatial Models** <br />
 <small>[ <a href="#/" onclick="visib('BB')">Abstract</a> | [Draft][Draft_BB] | [arXiv version][arXiv_BB] | [Toolkit][Toolkit_BB] ] 
