@@ -8,7 +8,7 @@
 ---
 
 <br />
-Welcome! I am an research fellow at [Coefficient Giving](https://coefficientgiving.org/). Before that, I earned my PhD in Economics from Harvard University.
+Welcome! I am a research fellow at [Coefficient Giving](https://coefficientgiving.org/). Before that, I earned my PhD in Economics from Harvard University.
 
 My research interests are in econometrics with applications in quantitative trade and spatial models.
 
